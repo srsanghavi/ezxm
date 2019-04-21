@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ezxm/precache-manifest.2c2fde227b6af7d68f88c5f565bc1c73.js"
+  "/ezxm/precache-manifest.cd2bb54831e8a2ae9b5411215369b0cc.js"
 );
 
 workbox.clientsClaim();

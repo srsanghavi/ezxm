@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ezxm/static/js/runtime~main.dd36c09e.js"
   },
   {
-    "revision": "392879360cc98aec8bef",
-    "url": "/ezxm/static/js/main.95ea8706.chunk.js"
+    "revision": "7dad5ca9579ff0a03ab0",
+    "url": "/ezxm/static/js/main.6f10c1bf.chunk.js"
   },
   {
     "revision": "ff99d5375c03250172fc",
     "url": "/ezxm/static/js/2.b7bf2c31.chunk.js"
   },
   {
-    "revision": "392879360cc98aec8bef",
+    "revision": "7dad5ca9579ff0a03ab0",
     "url": "/ezxm/static/css/main.d0157f52.chunk.css"
   },
   {
-    "revision": "018312c24aa292eaf6bf2a6cda5d1e87",
+    "revision": "7bc1c08623e6d8e268b0de12a0421653",
     "url": "/ezxm/index.html"
   }
 ];
